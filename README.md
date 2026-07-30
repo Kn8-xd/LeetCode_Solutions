@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
 | [1260-shift-2d-grid](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1313-decompress-run-length-encoded-list](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1313-decompress-run-length-encoded-list) |
 ## Hash Table
 |  |
 | ------- |
