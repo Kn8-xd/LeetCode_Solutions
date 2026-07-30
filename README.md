@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String Matching
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0067-add-binary) |
 ## Tree
 |  |
 | ------- |
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0098-validate-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
