@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1029-two-city-scheduling](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0709-to-lower-case) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String Matching
 |  |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [1054-distant-barcodes](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Database
 |  |
 | ------- |
