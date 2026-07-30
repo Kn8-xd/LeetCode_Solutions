@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0485-max-consecutive-ones](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
