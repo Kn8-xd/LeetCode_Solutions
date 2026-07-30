@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String Matching
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 ## Tree
 |  |
 | ------- |
