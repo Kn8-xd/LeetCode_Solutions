@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0409-longest-palindrome](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0414-third-maximum-number) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Stack
 |  |
 | ------- |
