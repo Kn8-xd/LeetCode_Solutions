@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String Matching
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0015-3sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
