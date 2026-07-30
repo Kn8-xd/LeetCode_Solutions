@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
