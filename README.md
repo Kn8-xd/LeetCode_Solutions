@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0009-palindrome-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String Matching
 |  |
 | ------- |
