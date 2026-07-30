@@ -241,4 +241,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0185-department-top-three-salaries) |
 | [0584-find-customer-referee](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0595-big-countries) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 <!---LeetCode Topics End-->
