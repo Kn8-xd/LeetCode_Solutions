@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0485-max-consecutive-ones](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 ## Matrix
 |  |
 | ------- |
