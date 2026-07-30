@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1029-two-city-scheduling](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
+| [1260-shift-2d-grid](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,12 +191,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
+| [1260-shift-2d-grid](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
 ## Tree
 |  |
 | ------- |
