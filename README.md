@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
+| [0877-stone-game](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Matrix
 |  |
@@ -308,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
