@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0763-partition-labels) |
 | [1054-distant-barcodes](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0392-is-subsequence) |
+| [0763-partition-labels](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
+| [0763-partition-labels](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0860-lemonade-change) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1029-two-city-scheduling](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1029-two-city-scheduling) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0709-to-lower-case](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0709-to-lower-case) |
+| [0763-partition-labels](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0763-partition-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
