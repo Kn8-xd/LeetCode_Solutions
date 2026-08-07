@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0763-partition-labels) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1054-distant-barcodes](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
