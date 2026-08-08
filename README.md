@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0338-counting-bits) |
 ## Divide and Conquer
