@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1672-richest-customer-wealth](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
+| [1672-richest-customer-wealth](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
