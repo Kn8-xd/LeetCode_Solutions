@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1672-richest-customer-wealth](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Tree
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
 | ------- |
