@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1446-consecutive-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3794-reverse-string-prefix](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3794-reverse-string-prefix) |
 ## String Matching
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Trie
 |  |
 | ------- |
