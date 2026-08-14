@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2537-count-the-number-of-good-subarrays](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Trie
 |  |
 | ------- |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0338-counting-bits) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
 | ------- |
