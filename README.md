@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1054-distant-barcodes](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3794-reverse-string-prefix) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Design
 |  |
