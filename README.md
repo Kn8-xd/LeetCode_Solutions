@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Stack
 |  |
 | ------- |
