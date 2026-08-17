@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1054-distant-barcodes](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2351-first-letter-to-appear-twice](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2351-first-letter-to-appear-twice](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0338-counting-bits) |
+| [2351-first-letter-to-appear-twice](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Divide and Conquer
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2351-first-letter-to-appear-twice](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Database
