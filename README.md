@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3794-reverse-string-prefix) |
 ## String Matching
 |  |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Database
 |  |
 | ------- |
