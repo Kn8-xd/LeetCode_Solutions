@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1550-three-consecutive-odds](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1550-three-consecutive-odds) |
 | [1652-defuse-the-bomb](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
