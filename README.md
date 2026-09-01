@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1029-two-city-scheduling](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
