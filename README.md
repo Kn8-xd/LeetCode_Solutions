@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1550-three-consecutive-odds](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1550-three-consecutive-odds) |
