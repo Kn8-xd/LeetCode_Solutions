@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1920-build-array-from-permutation](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1260-shift-2d-grid) |
+| [1920-build-array-from-permutation](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
