@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2460-apply-operations-to-an-array](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2574-left-and-right-sum-differences](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2396-strictly-palindromic-number) |
+| [2460-apply-operations-to-an-array](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3794-reverse-string-prefix) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2460-apply-operations-to-an-array](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Tree
 |  |
 | ------- |
