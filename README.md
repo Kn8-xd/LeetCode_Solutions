@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1920-build-array-from-permutation) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
