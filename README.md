@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2396-strictly-palindromic-number](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
