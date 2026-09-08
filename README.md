@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0763-partition-labels) |
 | [0917-reverse-only-letters](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0942-di-string-match) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1446-consecutive-characters) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
