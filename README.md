@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0394-decode-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
