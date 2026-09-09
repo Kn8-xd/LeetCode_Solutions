@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0454-4sum-ii) |
 | [0475-heaters](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0763-partition-labels) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 ## Game Theory
 |  |
