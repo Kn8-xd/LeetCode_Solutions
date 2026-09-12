@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0942-di-string-match) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1002-find-common-characters](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1002-find-common-characters) |
 | [1054-distant-barcodes](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/0942-di-string-match) |
+| [1002-find-common-characters](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kn8-xd/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
